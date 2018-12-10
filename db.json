@@ -4,7 +4,20 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
+  "comments": [23512521
+               32152
+               3215
+               5
+               123
+               5
+               1235
+               1235
+               3215
+               
+               2135
+               1235
+               
+               
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
